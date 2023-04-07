@@ -1,11 +1,18 @@
-Power BI - E-Commerce Dashboard
+# Power BI - E-Commerce Dashboard
+This project contains an interactive dashboard created with Power BI that analyzes e-commerce sales data and provides insights into consumer behavior, sales trends, and product performance.
 
-Created interactive dashboard to track and analyze online sales data
-Used complex parameters to drill down in worksheet and customization using filters and slicers
-Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
-Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
-This project contains an interactive dashboard that analyzes e-commerce sales data and provides insights into consumer behavior, sales trends, and product performance. The dashboard was created using Power BI, a powerful data analytics and visualization tool, and is designed to be visually appealing and user-friendly.
+# Features
+Interactive dashboard to track and analyze online sales data
+Complex parameters to drill down in worksheet and customization using filters and slicers
+Connections to join new tables, calculations to manipulate data and enable user-driven parameters for visualizations
+Different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
+Getting Started
+Clone or download the repository.
+Open the Power BI report file (.pbix) using Power BI Desktop.
+Explore the data and visualizations using the interactive dashboard.
 
-In this repository, you'll find the data files used to create the dashboard, as well as the Power BI report file and supporting documentation. The report includes various visualizations and charts that allow users to filter and explore the data in real-time, providing a deeper understanding of the business's performance.
+# Data
+The data used in this project is provided in the data folder. The data includes sales data for a fictional e-commerce store, including customer demographics, product categories, and sales revenue.
 
-Please feel free to explore the project files and reach out to me with any questions or feedback. Thank you for visiting! 🙌
+# Feedback and Support
+If you have any questions or feedback, please feel free to reach out to me. I am happy to answer any questions or provide support for using the dashboard.
