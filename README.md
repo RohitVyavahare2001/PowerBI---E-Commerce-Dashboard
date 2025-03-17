@@ -1,6 +1,7 @@
 # Power BI - E-Commerce Dashboard
 This project contains an interactive dashboard created with Power BI that analyzes e-commerce sales data and provides insights into consumer behavior, sales trends, and product performance.
-#Image:
+
+# Image:
 <img width="632" alt="image" src="https://github.com/user-attachments/assets/bc738057-edb6-472e-8e03-512279d5f24d" />
 
 # Features
